@@ -5,7 +5,7 @@ int main() {
 
 	cout << "What is love?" << endl;
 	cout << "Baby don't hurt me, don't hurt me..." << endl;
-	cout << "   (mooooooooo)." << endl;
+	cout << "   (erom on)." << endl;
 
 	return 0;
 }
